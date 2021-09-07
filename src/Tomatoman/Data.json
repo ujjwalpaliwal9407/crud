@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "category":"Vegetable",
+        "name":"Onion",
+        "price":20
+    },
+    {
+        "id":2,
+        "category":"Vegetable",
+        "name":"Potato",
+        "price":23
+    },
+    {
+        "id":3,
+        "category":"Vegetable",
+        "name":"Lady Finger",
+        "price":27
+    },
+    {
+        "id":4,
+        "category":"Vegetable",
+        "name":"Brinjal",
+        "price":15
+    },
+    {
+        "id":5,
+        "category":"Vegetable",
+        "name":"Tomato",
+        "price":25
+    },
+    {
+        "id":6,
+        "category":"Vegetable",
+        "name":"Banana",
+        "price":35
+    }
+]
