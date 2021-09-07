@@ -10,6 +10,7 @@ import Data from './Data.json';
 // var update = require('immutability-helper');
 
  class VegetableList extends Component {
+
     constructor(props) {
         super(props)
         const token = localStorage.getItem("token")
@@ -69,7 +70,7 @@ import Data from './Data.json';
   } 
     
   render() {
-    
+    console.log("12182738127398172")
     if(this.state.loggedIn === false)
     {
         console.log(this.state.loggedIn)
